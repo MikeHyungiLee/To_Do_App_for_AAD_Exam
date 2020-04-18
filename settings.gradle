@@ -1,0 +1,2 @@
+rootProject.name='To_Do_App_for_AAD_Exam'
+include ':app'
